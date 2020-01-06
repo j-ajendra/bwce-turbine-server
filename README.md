@@ -10,10 +10,10 @@ NAMESPACE = k8s namespace to monitor (Default - Current Namespace)
 
 ### Label Selector
 
-By default, all applications are polled for hystrix stream.  
-To exclude a particular application, add the following label to deployments. 
+By default, no applications are polled for hystrix stream.  
+To include a particular application, add the following label to deployments. 
 
-hystrix.enabled=false
+hystrix.enabled=true
 
 ### Build docker image
 
