@@ -1,4 +1,6 @@
 # turbine-server
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/j-ajendra/bwce-turbine-server/badge)](https://api.securityscorecards.dev/projects/github.com/j-ajendra/bwce-turbine-server)
 ___
 
 ## Turbine server for TIBCO BWCE 
